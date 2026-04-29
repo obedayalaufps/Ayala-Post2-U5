@@ -39,7 +39,7 @@ Se realizaron pruebas de conectividad utilizando diferentes configuraciones de r
 | Modo de Red | Dirección IP Obtenida | Acceso a Internet          | Conexión con Anfitrión |
 |-------------|-----------------------|----------------------------|------------------------|
 | NAT        | 10.0.2.15            | Sí (vía Gateway 10.0.2.2) | Limitado              |
-| Host-Only  | 192.168.56.x         | No                        | Total (Bidireccional) |
+| Host-Only  | 192.168.56.102         | No                        | Total (Bidireccional) |
 
 **Checkpoint 4: Gestión de Snapshots**  
 Se implementó un sistema de control de estados mediante snapshots para permitir la reversión de cambios en el sistema.  
